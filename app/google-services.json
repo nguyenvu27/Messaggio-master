@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "880277148656",
+    "firebase_url": "https://messaggio-master-828db.firebaseio.com",
+    "project_id": "messaggio-master-828db",
+    "storage_bucket": "messaggio-master-828db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880277148656:android:1c4e485a421a00fd",
+        "android_client_info": {
+          "package_name": "com.dotplays.messaggio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880277148656-7u1rfjrbeohkdl39oeainhfla1pva57n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dotplays.messaggio",
+            "certificate_hash": "96a91cfa4cc7a00dbd7aa07ed5065a9130583c43"
+          }
+        },
+        {
+          "client_id": "880277148656-flsbsklh5kfc7op1gupift8j1aaaib09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGP_Gf6wFq3OUsYYoxwZG-_2-TCMipu10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880277148656-flsbsklh5kfc7op1gupift8j1aaaib09.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
